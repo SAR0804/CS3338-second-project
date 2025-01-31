@@ -1,1 +1,1 @@
-The greatest website to ever roam the Earth, that introduces the current edditor of the file
+The greatest website to ever roam the Internet that introduces the current editor of the file
