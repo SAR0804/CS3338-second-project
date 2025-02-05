@@ -1,0 +1,104 @@
+commit a07645b5d23d148532547968c865916e9aa3fddb
+Merge: 13cde20 f553feb
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Wed Feb 5 14:04:06 2025 -0800
+
+    fixed merge conflict
+
+commit 13cde20b5a33afa5b6c11c39308dce88393045fc
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Wed Feb 5 13:54:46 2025 -0800
+
+    Teammate forced conflict merge
+
+commit f553feb3cc06ce8b7e44f3b2ca83e056eb60d1dd
+Author: Hang Bao <baohang873@gmail.com>
+Date:   Sun Feb 2 16:20:37 2025 -0800
+
+    conflit
+
+commit 9369d59fa55ed8a794c176411a659c135ae4469c
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:25:12 2025 -0800
+
+    Link to the repo
+
+commit fe1d267843ebc324ba8cb540d2891af53e8dc48e
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:24:41 2025 -0800
+
+    Logs of commit/push histories
+
+commit e729b90b1c86fd77c229c9768693ed429565c003
+Merge: 421cb3e ed4c99f
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:18:36 2025 -0800
+
+    Switched orders and removed some repeated lines
+
+commit ed4c99f168cbd6301a33e088003b04dc57cf94a5
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:15:53 2025 -0800
+
+    Added a new line with my favorite game
+
+commit 421cb3e54c782e373da94cfef35428be5de0c939
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:15:06 2025 -0800
+
+    Added a new div with my favorite food
+
+commit 7eafa18a2818c633256899bb493b8cd964d5e32d
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:11:12 2025 -0800
+
+    Added a new line with my favorite game
+
+commit 2a6d50304bc3972ef9d989fe78f5ea78da8ac31e
+Merge: edcef5a 409663e
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 11:05:38 2025 -0800
+
+    Updated README
+
+commit 409663e0301478e4d685bb91575be903aa0c777f
+Merge: 6bedc16 6905d7d
+Author: Steven Ariza-Arzate <131406132+SAR0804@users.noreply.github.com>
+Date:   Fri Jan 31 10:54:37 2025 -0800
+
+    Merge pull request #2 from SAR0804/info-fill
+    
+    Added in a README to describe the repo and file attached.
+
+commit 6905d7d70aa4ba10b84828f86a41724f8be4b363
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 10:53:51 2025 -0800
+
+    Added in a README to describe the repo and file attached.
+
+commit edcef5aeb91a161c3febaa96f6576403c4813633
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 10:50:35 2025 -0800
+
+    Adding a much needed README file to describe the repo.
+
+commit 6bedc16c7adf4368f9784f00f51d698b4b8616e7
+Merge: 1d2bfc0 da43c27
+Author: Steven Ariza-Arzate <131406132+SAR0804@users.noreply.github.com>
+Date:   Fri Jan 31 10:46:58 2025 -0800
+
+    Merge pull request #1 from SAR0804/info-fill
+    
+    Filled in the blanks for the website
+
+commit da43c27e5460e2926997aec2e8348079b48b41fa
+Author: Steven Ariza-Arzate <sarizaarz@gmail.com>
+Date:   Fri Jan 31 10:41:10 2025 -0800
+
+    Filled in the blanks for the website
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
